@@ -60,7 +60,7 @@ The system combines financial data analysis with AI-generated insights to delive
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/AI-Financial-Advisor.git
+    git clone https://github.com/adnan-saif/AI-Financial-Advisor.git
     cd AI-Financial-Advisor
     ```
 
