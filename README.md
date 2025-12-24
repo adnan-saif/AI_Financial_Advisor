@@ -1,4 +1,4 @@
-# 💼 AI Financial Advisor Web Application
+# AI Financial Advisor Web Application
 
 ## 📘 Introduction
 
